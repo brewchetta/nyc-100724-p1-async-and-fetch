@@ -1,0 +1,29 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "question": "How do cows hide?",
+      "punchline": "Cow-moo-flauge"
+    },
+    {
+      "id": 2,
+      "question": "Why don't you bury people living in NY in NY?",
+      "punchline": "Because they're still living!"
+    },
+    {
+      "id": 3,
+      "question": "How do you know your clock is hungry?",
+      "punchline": "It goes back four seconds"
+    },
+    {
+      "id": 4,
+      "question": "Did you hear the joke about pizza?",
+      "punchline": "Nevermind, it was too cheesy"
+    },
+    {
+      "id": 5,
+      "question": "What do you call a fish with no eyes?",
+      "punchline": "Fsh"
+    }
+  ]
+}
